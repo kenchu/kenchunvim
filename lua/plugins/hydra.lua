@@ -1,6 +1,5 @@
 local M = {}
 
-
 M.hydra_sidescroll = function()
   local Hydra = require('hydra')
   Hydra({
